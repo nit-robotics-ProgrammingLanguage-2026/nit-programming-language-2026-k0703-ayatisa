@@ -23,6 +23,6 @@ int main(void) {
     } else {
         printf("%d\n", fibo(n));
     }
-  
+      
     return 0;     
 }
