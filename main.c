@@ -24,5 +24,5 @@ int main(void) {
         printf("%d\n", fibo(n));
     }
 
-    return 0;
+    return 0;   
 }
